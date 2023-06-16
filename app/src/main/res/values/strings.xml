@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ThirtyDaysOfQuotes</string>
+
+    // 30 Quotes
+    <string name="quote_1">The only way to do great work is to love what you do. - Steve Jobs</string>
+    <string name="quote_2">Success is not the key to happiness. Happiness is the key to success. - Albert Schweitzer</string>
+    <string name="quote_3">Believe you can and you\'re halfway there. - Theodore Roosevelt</string>
+    <string name="quote_4">The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt</string>
+    <string name="quote_5">The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt</string>
+    <string name="quote_6">Don\'t watch the clock; do what it does. Keep going. - Sam Levenson</string>
+    <string name="quote_7">The best way to predict the future is to create it. - Peter Drucker</string>
+    <string name="quote_8">Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill</string>
+    <string name="quote_9">Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson</string>
+    <string name="quote_10">Your time is limited, don\'t waste it living someone else\'s life. - Steve Jobs</string>
+    <string name="quote_11">The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson</string>
+    <string name="quote_12">Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau</string>
+    <string name="quote_13">The secret of getting ahead is getting started. - Mark Twain</string>
+    <string name="quote_14">Don\'t be afraid to give up the good to go for the great. - John D. Rockefeller</string>
+    <string name="quote_15">The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt</string>
+    <string name="quote_16">You miss 100% of the shots you don\'t take. - Wayne Gretzky</string>
+    <string name="quote_17">If you want to achieve greatness, stop asking for permission. - Anonymous</string>
+    <string name="quote_18">The journey of a thousand miles begins with one step. - Lao Tzu</string>
+    <string name="quote_19">Believe you can and you\'re halfway there. - Theodore Roosevelt</string>
+    <string name="quote_20">The only place where success comes before work is in the dictionary. - Vidal Sassoon</string>
+    <string name="quote_21">A dream doesn\'t become reality through magic; it takes sweat, determination, and hard work. - Colin Powell</string>
+    <string name="quote_22">The harder I work, the luckier I get. - Samuel Goldwyn</string>
+    <string name="quote_23">Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill</string>
+    <string name="quote_24">Don\'t be pushed around by the fears in your</string>
+    <string name="quote_25">Success is not in what you have, but who you are. - Bo Bennett</string>
+    <string name="quote_26">Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. - Chantal Sutherland</string>
+    <string name="quote_27">The future depends on what you do today. - Mahatma Gandhi</string>
+    <string name="quote_28">The difference between ordinary and extraordinary is that little extra. - Jimmy Johnson</string>
+    <string name="quote_29">Don\'t be afraid to give up the good to go for the great. - Kenny Rogers</string>
+    <string name="quote_30">The best way to predict the future is to create it. - Peter Drucker</string>
+
+    // 30 Days
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+</resources>
