@@ -8,10 +8,6 @@ Thirty Days of Quotes is an Android application that provides daily inspirationa
 - Clean and intuitive user interface.
 - Easy navigation between different quotes.
 
-## Screenshots
-
-![Screenshot_20230616_112605](https://github.com/Ben-ayesu/ThirtyDaysOfQuotes/assets/19813169/15a5fd3d-0723-4821-843a-0155410e912b)
-
 ## Getting Started
 
 To get started with the Thirty Days of Quotes application, follow these steps:
@@ -35,4 +31,8 @@ Contributions to the Thirty Days of Quotes application are welcome. If you find 
 ## Acknowledgements
 
 - The inspirational quotes used in this application are sourced from ChatGPT and has been audited.
+
+## Screenshots
+
+![Screenshot_20230616_112605](https://github.com/Ben-ayesu/ThirtyDaysOfQuotes/assets/19813169/15a5fd3d-0723-4821-843a-0155410e912b)
 
